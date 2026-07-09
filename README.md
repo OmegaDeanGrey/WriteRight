@@ -33,6 +33,7 @@ Navigate to the frontend project.
 
 ```bash
 npm install
+npm install react-router-dom
 npm run dev
 ```
 
